@@ -1,0 +1,171 @@
+#mucluc {
+  position: fixed;
+  background: #175942;
+  width: 70%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  z-index: 9999;
+}
+
+.mucluc {
+  display: inline-block;
+  margin-left: 20px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}
+.home {
+  display: inline-block;
+  margin-left: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #EDFFED;
+  font-family: 'Poppins', sans-serif;
+}
+#sign_in {
+  background: #175942;
+  width: 64px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 290px;
+  padding-left: 20px;
+  padding-right: 10px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+#signin {
+  text-decoration: none;
+  color: #fff;
+}
+/*muc luc */
+.logo {
+  position: absolute;
+  width: 50px;
+  border-radius: 50%;
+  margin-left: 320px;
+  margin-top: 5px;
+}
+.banner_01 {
+  position: absolute;
+  width: 330px;
+  margin-top: 50px;
+  margin-left: 54px;
+}
+
+#hello {
+  text-align: center;
+  color: #3f3d56;
+  margin-top: 100px;
+  z-index: 10;
+  text-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.hello {
+  position: absolute;
+  text-align: center;
+  color: #003D28;
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  z-index: 1;
+}
+
+#la_01 {
+  position: absolute;
+  width: 250px;
+  transform: scale(-1);
+  transform: rotate(140deg);
+  margin-top: -30px;
+  margin-left: -90px;
+  z-index: -1;
+}
+
+#banner_01 button{
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 320px;
+  border: 0px solid #FFFFFF;
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  background: #3f3d56;
+  color: #FFFFFF;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+#banner_02 img {
+  width: 330px;
+  margin-top: 450px;
+  position: absolute;
+  margin-left: 54px;
+}
+
+#banner_02 p {
+  position: absolute;
+  text-align: center;
+  color: #003D28;
+  margin-top: 600px;
+  margin-left: 20px;
+  margin-right: 100px;
+  z-index: 1;
+}
+
+#banner_03 img {
+  width: 330px;
+  position: absolute;
+  margin-top: 800px;
+}
+
+#banner_03 p {
+  position: absolute;
+  text-align: center;
+  color: #003D28;
+  margin-top: 950px;
+  margin-left: 120px;
+  margin-right: 10px;
+  z-index: 1;
+}
+#banner_03 a {
+  position: absolute;
+  margin-left: 185px;
+  margin-top: 1020px;
+  border: 0px solid #FFFFFF;
+  border-radius: 20px;
+  background: #3f3d56;
+  color: #FFFFFF;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
+  padding: 10px 27px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#cuoitrang {
+  width: 100px;
+  height: 100px;
+  margin-top: 1100px;
+}
+
+#la_02 {
+  position: absolute;
+  width: 100px;
+  transform: rotate(140deg);
+  margin-left: 220px;
+  margin-top: 500px;
+  z-index: -1;
+}
+#footer {
+  font-size: 10px;
+  text-align: center;
+}
